@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMVCAssign1", "MyMVCAssign1.csproj", "{398D5FCA-4608-4CB7-A8A8-79D1580D53D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398D5FCA-4608-4CB7-A8A8-79D1580D53D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398D5FCA-4608-4CB7-A8A8-79D1580D53D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398D5FCA-4608-4CB7-A8A8-79D1580D53D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398D5FCA-4608-4CB7-A8A8-79D1580D53D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F17AE6E9-2691-4759-B891-3F8E13FD7D5E}
+	EndGlobalSection
+EndGlobal

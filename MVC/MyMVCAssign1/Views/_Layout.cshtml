@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title> - My ASP.NET Core MVC App</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <h1>My MVC App</h1>
+        <nav>
+            <ul>
+                <li><a href="/First/Index1">FirstController Index1</a></li>
+                <li><a href="/Second/Index1">SecondController Index1</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+    <footer>
+        <p>&copy; 2024 - My MVC App</p>
+    </footer>
+</body>
+</html>
