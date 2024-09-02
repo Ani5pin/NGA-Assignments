@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{492C853B-39D7-4C81-B581-B496BABEC3ED}|TaskApi1.csproj|c:\\users\\91639\\nga-assignments\\webapi\\taskapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492C853B-39D7-4C81-B581-B496BABEC3ED}|TaskApi1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492C853B-39D7-4C81-B581-B496BABEC3ED}|TaskApi1.csproj|c:\\users\\91639\\nga-assignments\\webapi\\taskapi1\\data access layer\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492C853B-39D7-4C81-B581-B496BABEC3ED}|TaskApi1.csproj|solutionrelative:data access layer\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492C853B-39D7-4C81-B581-B496BABEC3ED}|TaskApi1.csproj|c:\\users\\91639\\nga-assignments\\webapi\\taskapi1\\taskapi1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{492C853B-39D7-4C81-B581-B496BABEC3ED}|TaskApi1.csproj|solutionrelative:taskapi1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492C853B-39D7-4C81-B581-B496BABEC3ED}|TaskApi1.csproj|c:\\users\\91639\\nga-assignments\\webapi\\taskapi1\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492C853B-39D7-4C81-B581-B496BABEC3ED}|TaskApi1.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492C853B-39D7-4C81-B581-B496BABEC3ED}|TaskApi1.csproj|c:\\users\\91639\\nga-assignments\\webapi\\taskapi1\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492C853B-39D7-4C81-B581-B496BABEC3ED}|TaskApi1.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\Data Access Layer\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Data Access Layer\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\Data Access Layer\\TaskRepository.cs",
+              "RelativeToolTip": "Data Access Layer\\TaskRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwF4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:53:00.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:51:39.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:50:21.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskApi1",
+              "DocumentMoniker": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\TaskApi1.csproj",
+              "RelativeDocumentMoniker": "TaskApi1.csproj",
+              "ToolTip": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\TaskApi1.csproj",
+              "RelativeToolTip": "TaskApi1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T11:49:52.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91639\\NGA-Assignments\\WebApi\\TaskApi1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:49:32.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
