@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "cf0e",
+      "firstName": "Aniket",
+      "lastName": "Verma",
+      "email": "bhabhire@gmail.com",
+      "password": "Aniket@123",
+      "address": "Anand Nagar Katra",
+      "mobileNumber": "6392285579"
+    }
+  ]
+}
