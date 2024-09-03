@@ -1,0 +1,7 @@
+C:\Users\91639\source\repos\ADO.NET Assignmets\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+C:\Users\91639\source\repos\ADO.NET Assignmets\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+C:\Users\91639\source\repos\ADO.NET Assignmets\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+C:\Users\91639\source\repos\ADO.NET Assignmets\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.AssemblyReference.cache
+C:\Users\91639\source\repos\ADO.NET Assignmets\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\91639\source\repos\ADO.NET Assignmets\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+C:\Users\91639\source\repos\ADO.NET Assignmets\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
